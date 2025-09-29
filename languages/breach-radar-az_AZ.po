@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: breach-radar 1.0.0\n"
+"POT-Creation-Date: 2025-09-19 00:00+0000\n"
+"PO-Revision-Date: 2025-09-19 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Azerbaijani\n"
+"Language: az_AZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: breach-radar\n"
+
+msgid "Invalid JSON response."
+msgstr "Yanlış JSON cavabı."
+
+msgid "Breach Radar"
+msgstr "Breach Radar"
+
+msgid "Overview"
+msgstr "İcmal"
+
+msgid "Scan"
+msgstr "Skan"
+
+msgid "Logs"
+msgstr "Qeydlər"
+
+msgid "Badge"
+msgstr "Nişan"
+
+msgid "Settings"
+msgstr "Tənzimləmələr"
+
+msgid "API Settings"
+msgstr "API Tənzimləmələri"
+
+msgid "API Key"
+msgstr "API Açarı"
+
+msgid "Email the admin when counts increase."
+msgstr "Artım olduqda adminə e‑poçt göndər."
+
+msgid "Enabled"
+msgstr "Aktiv"
+
+msgid "Threshold (increase ≥)"
+msgstr "Hədd (artım ≥)"
+
+msgid "Integration"
+msgstr "Inteqrasiya"
+
+msgid "To use the plugin, create your WordPress API key at %s and paste it in Settings."
+msgstr "Qoşmanı istifadə etmək üçün %s ünvanında WordPress API açarı yaradın və Tənzimləmələrə yapışdırın."
+
+msgid "Get your API key."
+msgstr "API açarınızı alın."
+
+msgid "In WordPress admin, go to Breach Radar → Settings and save the key."
+msgstr "WordPress idarəetmədə Breach Radar → Tənzimləmələr bölməsinə gedin və açarı saxlayın."
+
+msgid "Track scans and insights from the Dashboard."
+msgstr "Skanları və göstəriciləri Paneldən izləyin."
+
+msgid "Add the protection badge via shortcode or from theme customizer to footer."
+msgstr "Qoruma nişanını shortcode ilə və ya tema tənzimləyicisindən alt hissəyə əlavə edin."
+
+msgid "API error. Please check your settings."
+msgstr "API xətası. Zəhmət olmasa tənzimləmələrinizi yoxlayın."
+
+msgid "Could not connect to server."
+msgstr "Serverə qoşulmaq mümkün olmadı."
+
+msgid "Last Scan"
+msgstr "Son Skan"
+
+msgid "Found Today (items)"
+msgstr "Bu gün tapılan (ədəd)"
+
+msgid "Connection failed"
+msgstr "Bağlantı uğursuz oldu"
+
+msgid "Connection OK"
+msgstr "Bağlantı uğurlu"
+
+msgid "Daily API usage (approx)"
+msgstr "Gündəlik API istifadəsi (təxmini)"
+
+msgid "Left: %d"
+msgstr "Qalıq: %d"
+
+msgid "Risk Summary"
+msgstr "Risk Xülasəsi"
+
+msgid "Users with increases today: %d"
+msgstr "Bu gün artım olan istifadəçilər: %d"
+
+msgid "%1$d → %2$d (+%3$d)"
+msgstr "%1$d → %2$d (+%3$d)"
+
+msgid "No increases today."
+msgstr "Bu gün artım yoxdur."
+
+msgid "Insights"
+msgstr "Analitika"
+
+msgid "%d users show increased breach counts today. Recommend password resets and 2FA."
+msgstr "Bu gün %d istifadəçidə sızma sayı artdı. Şifrə yenilənməsi və 2FA tövsiyə olunur."
+
+msgid "No increases detected. Still recommend regular checks for critical roles."
+msgstr "Artım aşkarlanmadı. Yenə də kritik rollar üçün müntəzəm yoxlama tövsiyə olunur."
+
+msgid "Details"
+msgstr "Detallar"
+
+msgid "User sign-in"
+msgstr "İstifadəçi girişi"
+
+msgid "Protection Badge"
+msgstr "Qoruma Nişanı"
+
+msgid "Users (Top 10)"
+msgstr "İstifadəçilər (ilk 10)"
+
+msgid "Email"
+msgstr "E‑poçt"
+
+msgid "Found"
+msgstr "Tapıldı"
+
+msgid "Count"
+msgstr "Say"
+
+msgid "None"
+msgstr "Yoxdur"
+
+msgid "Date"
+msgstr "Tarix"
+
+msgid "No records."
+msgstr "Qeyd yoxdur."
+
+msgid "Table missing."
+msgstr "Cədvəl mövcud deyil."
+
+msgid "Quick Actions"
+msgstr "Sürətli Əməliyyatlar"
+
+msgid "Scan Now"
+msgstr "İndi Skan et"
+
+msgid "Manual Scan"
+msgstr "Manual Skan"
+
+msgid "Scan completed."
+msgstr "Skan tamamlandı."
+
+msgid "Results"
+msgstr "Nəticələr"
+
+msgid "User"
+msgstr "İstifadəçi"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "Filter"
+msgstr "Filtrlə"
+
+msgid "Found/None"
+msgstr "Tapıldı/Yoxdur"
+
+msgid "Scanned By"
+msgstr "Skan edən"
+
+msgid "Notify User"
+msgstr "İstifadəçini Məlumatlandır"
+
+msgid "Invalid email."
+msgstr "Yanlış e‑poçt."
+
+msgid "User has been notified."
+msgstr "İstifadəçi məlumatlandırıldı."
+
+msgid "Failed to send email."
+msgstr "E‑poçt göndərilə bilmədi."
+
+msgid "Breach Radar Summary"
+msgstr "Breach Radar Xülasəsi"
+
+msgid "Breach Radar Badge"
+msgstr "Breach Radar Nişanı"
+
+msgid "Add badge to footer"
+msgstr "Nişanı alt hissəyə əlavə et"
+
+msgid "Theme"
+msgstr "Mövzu"
+
+msgid "Size"
+msgstr "Ölçü"
+
+msgid "Align"
+msgstr "Düzülüş"
+
+msgid "Add nofollow to link"
+msgstr "Keçidə nofollow əlavə et"
+
+msgid "Aria label (optional)"
+msgstr "Aria etiket (istəyə bağlı)"
+
+msgid "Accessibility description for the link."
+msgstr "Keçid üçün əlçatanlıq təsviri."
+
+msgid "This site is protected against data breaches by Veri Sızıntısı Platform"
+msgstr "Bu sayt Veri Sızıntısı Platformu tərəfindən məlumat sızmalarına qarşı qorunur"
+
+msgid "Verify protection status"
+msgstr "Qoruma statusunu təsdiqlə"
+
+msgid "What is the Badge?"
+msgstr "Nişan nədir?"
+
+msgid "Informs visitors that your site is protected by Veri Sızıntısı Platform and links to a verification page."
+msgstr "Ziyarətçilərə saytınızın Veri Sızıntısı Platformu tərəfindən qorunduğunu bildirir və təsdiq səhifəsinə yönləndirir."
+
+msgid "Quick Use (Shortcode)"
+msgstr "Sürətli İstifadə (Shortcode)"
+
+msgid "Preview & Quick Copy"
+msgstr "Önizləmə və Sürətli Köçürmə"
+
+msgid "Use in Block Editor and Templates"
+msgstr "Blok Redaktorunda və Şablonlarda İstifadə"
+
+msgid "In Gutenberg, paste the shortcode into the \"Shortcode\" block. In theme files:"
+msgstr "Gutenberg-də shortcode-u “Shortcode” blokuna yapışdırın. Tema fayllarında:"
+
+msgid "Appearance → Customize → Breach Radar Badge to add badge to footer automatically."
+msgstr "Görünüş → Fərdiləşdir → Breach Radar Nişanı ilə nişanı avtomatik olaraq alt hissəyə əlavə edin."
+
+msgid "What Happens on Click?"
+msgstr "Kliklənəndə nə baş verir?"
+
+msgid "Visitors go to the verification page: %s. It shows protection status (protected/not), last scan info, 7-day warning, and TR/EN language support."
+msgstr "Ziyarətçilər təsdiq səhifəsinə yönləndirilir: %s. Bu səhifə qoruma statusunu (qorunur/qorunmur), son skan məlumatını, 7 günlük xəbərdarlığı və TR/EN dil dəstəyini göstərir."
+
+msgid "Best Practices"
+msgstr "Ən Yaxşı Təcrübələr"
+
+msgid "Place the badge in a visible area (footer, sidebar)."
+msgstr "Nişanı görünən sahəyə yerləşdirin (alt hissə, yan panel)."
+
+msgid "Tune theme and size parameters to match your site."
+msgstr "Mövzu və ölçü parametrlərini saytınıza uyğunlaşdırın."
+
+msgid "Use lang=auto for multilingual sites."
+msgstr "Çoxdilli saytlar üçün lang=auto istifadə edin."

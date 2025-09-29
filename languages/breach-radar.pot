@@ -1,0 +1,257 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: breach-radar 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-09-19 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: manual\n"
+"X-Domain: breach-radar\n"
+
+msgid "Invalid JSON response."
+msgstr ""
+
+msgid "Breach Radar"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Scan"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid "Badge"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "API Settings"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "Email the admin when counts increase."
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Threshold (increase )"
+msgstr ""
+
+msgid "Integration"
+msgstr ""
+
+msgid "To use the plugin, create your WordPress API key at %s and paste it in Settings."
+msgstr ""
+
+msgid "Get your API key."
+msgstr ""
+
+msgid "In WordPress admin, go to Breach Radar  Settings and save the key."
+msgstr ""
+
+msgid "Track scans and insights from the Dashboard."
+msgstr ""
+
+msgid "Add the protection badge via shortcode or from theme customizer to footer."
+msgstr ""
+
+msgid "API error. Please check your settings."
+msgstr ""
+
+msgid "Could not connect to server."
+msgstr ""
+
+msgid "Last Scan"
+msgstr ""
+
+msgid "Found Today (items)"
+msgstr ""
+
+msgid "Connection failed"
+msgstr ""
+
+msgid "Connection OK"
+msgstr ""
+
+msgid "Daily API usage (approx)"
+msgstr ""
+
+msgid "Left: %d"
+msgstr ""
+
+msgid "Risk Summary"
+msgstr ""
+
+msgid "Users with increases today: %d"
+msgstr ""
+
+msgid "%1$d  %2$d (+%3$d)"
+msgstr ""
+
+msgid "No increases today."
+msgstr ""
+
+msgid "Insights"
+msgstr ""
+
+msgid "%d users show increased breach counts today. Recommend password resets and 2FA."
+msgstr ""
+
+msgid "No increases detected. Still recommend regular checks for critical roles."
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "User sign-in"
+msgstr ""
+
+msgid "Protection Badge"
+msgstr ""
+
+msgid "Users (Top 10)"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Found"
+msgstr ""
+
+msgid "Count"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "No records."
+msgstr ""
+
+msgid "Table missing."
+msgstr ""
+
+msgid "Quick Actions"
+msgstr ""
+
+msgid "Scan Now"
+msgstr ""
+
+msgid "Manual Scan"
+msgstr ""
+
+msgid "Scan completed."
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Found/None"
+msgstr ""
+
+msgid "Scanned By"
+msgstr ""
+
+msgid "Notify User"
+msgstr ""
+
+msgid "Invalid email."
+msgstr ""
+
+msgid "User has been notified."
+msgstr ""
+
+msgid "Failed to send email."
+msgstr ""
+
+msgid "Breach Radar Summary"
+msgstr ""
+
+msgid "Breach Radar Badge"
+msgstr ""
+
+msgid "Add badge to footer"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Align"
+msgstr ""
+
+msgid "Add nofollow to link"
+msgstr ""
+
+msgid "Aria label (optional)"
+msgstr ""
+
+msgid "Accessibility description for the link."
+msgstr ""
+
+msgid "This site is protected against data breaches by Veri Sızıntısı Platform"
+msgstr ""
+
+msgid "Verify protection status"
+msgstr ""
+
+msgid "What is the Badge?"
+msgstr ""
+
+msgid "Informs visitors that your site is protected by Veri Sızıntısı Platform and links to a verification page."
+msgstr ""
+
+msgid "Quick Use (Shortcode)"
+msgstr ""
+
+msgid "Preview & Quick Copy"
+msgstr ""
+
+msgid "Use in Block Editor and Templates"
+msgstr ""
+
+msgid "In Gutenberg, paste the shortcode into the \"Shortcode\" block. In theme files:"
+msgstr ""
+
+msgid "Appearance  Customize  Breach Radar Badge to add badge to footer automatically."
+msgstr ""
+
+msgid "What Happens on Click?"
+msgstr ""
+
+msgid "Visitors go to the verification page: %s. It shows protection status (protected/not), last scan info, 7-day warning, and TR/EN language support."
+msgstr ""
+
+msgid "Best Practices"
+msgstr ""
+
+msgid "Place the badge in a visible area (footer, sidebar)."
+msgstr ""
+
+msgid "Tune theme and size parameters to match your site."
+msgstr ""
+
+msgid "Use lang=auto for multilingual sites."
+msgstr ""

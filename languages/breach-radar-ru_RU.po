@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: breach-radar 1.0.0\n"
+"POT-Creation-Date: 2025-09-19 00:00+0000\n"
+"PO-Revision-Date: 2025-09-19 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: breach-radar\n"
+
+msgid "Invalid JSON response."
+msgstr "Недопустимый ответ JSON."
+
+msgid "Breach Radar"
+msgstr "Breach Radar"
+
+msgid "Overview"
+msgstr "Обзор"
+
+msgid "Scan"
+msgstr "Сканирование"
+
+msgid "Logs"
+msgstr "Журналы"
+
+msgid "Badge"
+msgstr "Значок"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "API Settings"
+msgstr "Настройки API"
+
+msgid "API Key"
+msgstr "Ключ API"
+
+msgid "Email the admin when counts increase."
+msgstr "Отправлять администратору письмо при увеличении показателей."
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Threshold (increase ≥)"
+msgstr "Порог (увеличение ≥)"
+
+msgid "Integration"
+msgstr "Интеграция"
+
+msgid "To use the plugin, create your WordPress API key at %s and paste it in Settings."
+msgstr "Чтобы использовать плагин, создайте ключ API WordPress на %s и вставьте его в Настройки."
+
+msgid "Get your API key."
+msgstr "Получите ключ API."
+
+msgid "In WordPress admin, go to Breach Radar → Settings and save the key."
+msgstr "В админ‑панели WordPress перейдите в Breach Radar → Настройки и сохраните ключ."
+
+msgid "Track scans and insights from the Dashboard."
+msgstr "Отслеживайте сканирования и метрики на панели управления."
+
+msgid "Add the protection badge via shortcode or from theme customizer to footer."
+msgstr "Добавьте значок защиты через шорткод или из настроек темы в подвал."
+
+msgid "API error. Please check your settings."
+msgstr "Ошибка API. Проверьте ваши настройки."
+
+msgid "Could not connect to server."
+msgstr "Не удалось подключиться к серверу."
+
+msgid "Last Scan"
+msgstr "Последнее сканирование"
+
+msgid "Found Today (items)"
+msgstr "Выявлено сегодня (шт.)"
+
+msgid "Connection failed"
+msgstr "Сбой подключения"
+
+msgid "Connection OK"
+msgstr "Подключение OK"
+
+msgid "Daily API usage (approx)"
+msgstr "Ежедневное использование API (примерно)"
+
+msgid "Left: %d"
+msgstr "Осталось: %d"
+
+msgid "Risk Summary"
+msgstr "Сводка рисков"
+
+msgid "Users with increases today: %d"
+msgstr "Пользователей с ростом сегодня: %d"
+
+msgid "%1$d → %2$d (+%3$d)"
+msgstr "%1$d → %2$d (+%3$d)"
+
+msgid "No increases today."
+msgstr "Рост не зафиксирован."
+
+msgid "Insights"
+msgstr "Аналитика"
+
+msgid "%d users show increased breach counts today. Recommend password resets and 2FA."
+msgstr "%d пользователей имеют рост числа утечек сегодня. Рекомендуйте смену пароля и 2FA."
+
+msgid "No increases detected. Still recommend regular checks for critical roles."
+msgstr "Рост не обнаружен. Всё же рекомендуем регулярные проверки для критических ролей."
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "User sign-in"
+msgstr "Вход пользователя"
+
+msgid "Protection Badge"
+msgstr "Значок защиты"
+
+msgid "Users (Top 10)"
+msgstr "Пользователи (топ‑10)"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Found"
+msgstr "Найдено"
+
+msgid "Count"
+msgstr "Количество"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "No records."
+msgstr "Записей нет."
+
+msgid "Table missing."
+msgstr "Таблица отсутствует."
+
+msgid "Quick Actions"
+msgstr "Быстрые действия"
+
+msgid "Scan Now"
+msgstr "Сканировать сейчас"
+
+msgid "Manual Scan"
+msgstr "Ручное сканирование"
+
+msgid "Scan completed."
+msgstr "Сканирование завершено."
+
+msgid "Results"
+msgstr "Результаты"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Found/None"
+msgstr "Найдено/Нет"
+
+msgid "Scanned By"
+msgstr "Кем сканировано"
+
+msgid "Notify User"
+msgstr "Уведомить пользователя"
+
+msgid "Invalid email."
+msgstr "Неверный email."
+
+msgid "User has been notified."
+msgstr "Пользователь уведомлён."
+
+msgid "Failed to send email."
+msgstr "Не удалось отправить email."
+
+msgid "Breach Radar Summary"
+msgstr "Сводка Breach Radar"
+
+msgid "Breach Radar Badge"
+msgstr "Значок Breach Radar"
+
+msgid "Add badge to footer"
+msgstr "Добавить значок в подвал"
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Align"
+msgstr "Выравнивание"
+
+msgid "Add nofollow to link"
+msgstr "Добавить nofollow к ссылке"
+
+msgid "Aria label (optional)"
+msgstr "Метка ARIA (необязательно)"
+
+msgid "Accessibility description for the link."
+msgstr "Описание доступности для ссылки."
+
+msgid "This site is protected against data breaches by Veri Sızıntısı Platform"
+msgstr "Этот сайт защищён от утечек данных платформой Veri Sızıntısı"
+
+msgid "Verify protection status"
+msgstr "Проверить статус защиты"
+
+msgid "What is the Badge?"
+msgstr "Что такое значок?"
+
+msgid "Informs visitors that your site is protected by Veri Sızıntısı Platform and links to a verification page."
+msgstr "Сообщает посетителям, что ваш сайт защищён платформой Veri Sızıntısı, и ведёт на страницу проверки."
+
+msgid "Quick Use (Shortcode)"
+msgstr "Быстрое использование (шорткод)"
+
+msgid "Preview & Quick Copy"
+msgstr "Предпросмотр и быстрая копия"
+
+msgid "Use in Block Editor and Templates"
+msgstr "Использование в Блок‑редакторе и шаблонах"
+
+msgid "In Gutenberg, paste the shortcode into the \"Shortcode\" block. In theme files:"
+msgstr "В Gutenberg вставьте шорткод в блок \"Shortcode\". В файлах темы:"
+
+msgid "Appearance → Customize → Breach Radar Badge to add badge to footer automatically."
+msgstr "Вид → Настроить → Значок Breach Radar — чтобы автоматически добавить в подвал."
+
+msgid "What Happens on Click?"
+msgstr "Что происходит при клике?"
+
+msgid "Visitors go to the verification page: %s. It shows protection status (protected/not), last scan info, 7-day warning, and TR/EN language support."
+msgstr "Пользователь переходит на страницу проверки: %s. Там отображаются статус защиты (защищён/нет), данные последнего сканирования, предупреждение за 7 дней и поддержка TR/EN."
+
+msgid "Best Practices"
+msgstr "Рекомендации"
+
+msgid "Place the badge in a visible area (footer, sidebar)."
+msgstr "Разместите значок в видимой области (подвал, сайдбар)."
+
+msgid "Tune theme and size parameters to match your site."
+msgstr "Настройте тему и размер под ваш сайт."
+
+msgid "Use lang=auto for multilingual sites."
+msgstr "Используйте lang=auto для многоязычных сайтов."

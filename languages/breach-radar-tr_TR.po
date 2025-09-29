@@ -1,0 +1,258 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: breach-radar 1.0.0\n"
+"POT-Creation-Date: 2025-09-19 00:00+0000\n"
+"PO-Revision-Date: 2025-09-19 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: breach-radar\n"
+
+msgid "Invalid JSON response."
+msgstr "Geçersiz JSON yanıtı."
+
+msgid "Breach Radar"
+msgstr "Breach Radar"
+
+msgid "Overview"
+msgstr "Genel Bakış"
+
+msgid "Scan"
+msgstr "Tarama"
+
+msgid "Logs"
+msgstr "Kayıtlar"
+
+msgid "Badge"
+msgstr "Rozet"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "API Settings"
+msgstr "API Ayarları"
+
+msgid "API Key"
+msgstr "API Anahtarı"
+
+msgid "Email the admin when counts increase."
+msgstr "Artış olduğunda yöneticiye e‑posta gönder."
+
+msgid "Enabled"
+msgstr "Etkin"
+
+msgid "Threshold (increase ≥)"
+msgstr "Eşik (artış ≥)"
+
+msgid "Integration"
+msgstr "Entegrasyon"
+
+msgid "To use the plugin, create your WordPress API key at %s and paste it in Settings."
+msgstr "Eklentiyi kullanmak için %s üzerinden WordPress API anahtarı oluşturun ve Ayarlar’a yapıştırın."
+
+msgid "Get your API key."
+msgstr "API anahtarını alın."
+
+msgid "In WordPress admin, go to Breach Radar → Settings and save the key."
+msgstr "WordPress yönetiminde Breach Radar → Ayarlar’a gidip anahtarı kaydedin."
+
+msgid "Track scans and insights from the Dashboard."
+msgstr "Tarama ve öngörüleri Panel’den takip edin."
+
+msgid "Add the protection badge via shortcode or from theme customizer to footer."
+msgstr "Koruma rozetini kısa kodla veya tema özelleştiriciden alt bilgiye ekleyin."
+
+msgid "API error. Please check your settings."
+msgstr "API hatası. Lütfen ayarlarınızı kontrol edin."
+
+msgid "Could not connect to server."
+msgstr "Sunucuya bağlanılamadı."
+
+msgid "Last Scan"
+msgstr "Son Tarama"
+
+msgid "Found Today (items)"
+msgstr "Bugün Tespit Edilen (adet)"
+
+msgid "Connection failed"
+msgstr "Bağlantı başarısız"
+
+msgid "Connection OK"
+msgstr "Bağlantı başarılı"
+
+msgid "Daily API usage (approx)"
+msgstr "Günlük API kullanımı (yaklaşık)"
+
+msgid "Left: %d"
+msgstr "Kalan: %d"
+
+msgid "Risk Summary"
+msgstr "Risk Özeti"
+
+msgid "Users with increases today: %d"
+msgstr "Bugün artış yaşayan kullanıcılar: %d"
+
+msgid "%1$d → %2$d (+%3$d)"
+msgstr "%1$d → %2$d (+%3$d)"
+
+msgid "No increases today."
+msgstr "Bugün artış yok."
+
+msgid "Insights"
+msgstr "Öngörüler"
+
+msgid "%d users show increased breach counts today. Recommend password resets and 2FA."
+msgstr "Bugün %d kullanıcıda sızıntı sayısı arttı. Şifre sıfırlamayı ve 2FA’yı önerin."
+
+msgid "No increases detected. Still recommend regular checks for critical roles."
+msgstr "Artış tespit edilmedi. Yine de kritik roller için düzenli denetim önerilir."
+
+msgid "Details"
+msgstr "Detaylar"
+
+msgid "User sign-in"
+msgstr "Kullanıcı girişi"
+
+msgid "Protection Badge"
+msgstr "Koruma Rozeti"
+
+msgid "Users (Top 10)"
+msgstr "Kullanıcılar (İlk 10)"
+
+msgid "Email"
+msgstr "E‑posta"
+
+msgid "Found"
+msgstr "Bulundu"
+
+msgid "Count"
+msgstr "Sayı"
+
+msgid "None"
+msgstr "Yok"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "No records."
+msgstr "Kayıt yok."
+
+msgid "Table missing."
+msgstr "Tablo mevcut değil."
+
+msgid "Quick Actions"
+msgstr "Hızlı Eylemler"
+
+msgid "Scan Now"
+msgstr "Şimdi Tara"
+
+msgid "Manual Scan"
+msgstr "Manuel Tarama"
+
+msgid "Scan completed."
+msgstr "Tarama tamamlandı."
+
+msgid "Results"
+msgstr "Sonuçlar"
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "Filter"
+msgstr "Filtrele"
+
+msgid "Found/None"
+msgstr "Bulundu/Yok"
+
+msgid "Scanned By"
+msgstr "Taranan"
+
+msgid "Notify User"
+msgstr "Kullanıcıyı Bilgilendir"
+
+msgid "Invalid email."
+msgstr "Geçersiz e‑posta."
+
+msgid "User has been notified."
+msgstr "Kullanıcı bilgilendirildi."
+
+msgid "Failed to send email."
+msgstr "E‑posta gönderilemedi."
+
+msgid "Breach Radar Summary"
+msgstr "Breach Radar Özeti"
+
+msgid "Breach Radar Badge"
+msgstr "Breach Radar Rozeti"
+
+msgid "Add badge to footer"
+msgstr "Alt bilgiye rozeti ekle"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "Align"
+msgstr "Hizalama"
+
+msgid "Add nofollow to link"
+msgstr "Bağlantıya nofollow ekle"
+
+msgid "Aria label (optional)"
+msgstr "Aria etiketi (isteğe bağlı)"
+
+msgid "Accessibility description for the link."
+msgstr "Bağlantı için erişilebilirlik açıklaması."
+
+msgid "This site is protected against data breaches by Veri Sızıntısı Platform"
+msgstr "Bu site, Veri Sızıntısı Platformu tarafından veri sızıntılarına karşı korunuyor"
+
+msgid "Verify protection status"
+msgstr "Koruma durumunu doğrula"
+
+msgid "What is the Badge?"
+msgstr "Rozet Nedir?"
+
+msgid "Informs visitors that your site is protected by Veri Sızıntısı Platform and links to a verification page."
+msgstr "Ziyaretçilere sitenizin Veri Sızıntısı Platformu tarafından korunduğunu bildirir ve doğrulama sayfasına yönlendirir."
+
+msgid "Quick Use (Shortcode)"
+msgstr "Hızlı Kullanım (Shortcode)"
+
+msgid "Preview & Quick Copy"
+msgstr "Önizleme ve Hızlı Kopyala"
+
+msgid "Use in Block Editor and Templates"
+msgstr "Blok Düzenleyicide ve Şablonlarda Kullanım"
+
+msgid "In Gutenberg, paste the shortcode into the \"Shortcode\" block. In theme files:"
+msgstr "Gutenberg’de kısa kodu “Shortcode” bloğuna yapıştırın. Tema dosyalarında:"
+
+msgid "Appearance → Customize → Breach Radar Badge to add badge to footer automatically."
+msgstr "Görünüm → Özelleştir → Breach Radar Rozeti ile rozet alt bilgiye otomatik eklenir."
+
+msgid "What Happens on Click?"
+msgstr "Tıklanınca Ne Olur?"
+
+msgid "Visitors go to the verification page: %s. It shows protection status (protected/not), last scan info, 7-day warning, and TR/EN language support."
+msgstr "Ziyaretçiler doğrulama sayfasına gider: %s. Bu sayfa koruma durumunu (korunuyor/korunmuyor), son tarama bilgisini, 7 günlük uyarıyı ve TR/EN dil desteğini gösterir."
+
+msgid "Best Practices"
+msgstr "Öneriler"
+
+msgid "Place the badge in a visible area (footer, sidebar)."
+msgstr "Rozeti görünür bir alana yerleştirin (alt bilgi, kenar çubuğu)."
+
+msgid "Tune theme and size parameters to match your site."
+msgstr "Tema ve boyut parametrelerini sitenize uyacak şekilde ayarlayın."
+
+msgid "Use lang=auto for multilingual sites."
+msgstr "Çok dilli sitelerde lang=auto kullanın."
